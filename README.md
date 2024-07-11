@@ -2,7 +2,7 @@
 
 I'm Kuldeep Singh Sikarwar, a passionate software developer dedicated to crafting clean, efficient, and user-friendly applications.
 
-🔭 **About Me:** I have 1.7 years of experience in the industry, working on diverse projects ranging from front-end development using cutting-edge frameworks to robust back-end systems.
+🔭 **About Me:** I have 2.2 years of experience in the industry, working on diverse projects ranging from front-end development using cutting-edge frameworks to robust back-end systems.
 
 🌟 **What You'll Find Here:** This repository is a collection of my work, showcasing various projects, code snippets, and contributions. I'm a strong advocate for open-source collaboration and continual learning.
 
